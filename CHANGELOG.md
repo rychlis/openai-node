@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.28.4 (2024-02-23)
+
+Full Changelog: [v4.28.3...v4.28.4](https://github.com/openai/openai-node/compare/v4.28.3...v4.28.4)
+
+### Chores
+
+* **ci:** update actions/setup-node action to v4 ([#685](https://github.com/openai/openai-node/issues/685)) ([f2704d5](https://github.com/openai/openai-node/commit/f2704d5f1580c0f1d31584ef88702cde8f6804d4))
+* **types:** extract run status to a named type ([#686](https://github.com/openai/openai-node/issues/686)) ([b3b3b8e](https://github.com/openai/openai-node/commit/b3b3b8ea20e0f311d3bd53dfd22ccc04f5dce5f7))
+* update dependency @types/ws to v8.5.10 ([#683](https://github.com/openai/openai-node/issues/683)) ([a617268](https://github.com/openai/openai-node/commit/a6172683a3390422984ad282ac4940781493e772))
+
 ## 4.28.3 (2024-02-20)
 
 Full Changelog: [v4.28.2...v4.28.3](https://github.com/openai/openai-node/compare/v4.28.2...v4.28.3)
